@@ -26,7 +26,6 @@ Both projects are beginner–friendly, well-structured, and suitable for academi
   - Testing Instructions
 - [Future Scope](#-future-scope)
 - [How to Run/Build APK](#-how-to-runbuild-apk)
-- [Author](#-author)
 
 ---
 
