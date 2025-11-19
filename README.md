@@ -24,7 +24,6 @@ Both projects are beginner–friendly, well-structured, and suitable for academi
   - Controls
   - Project Structure
   - Testing Instructions
-- [Screenshots (Placeholders)](#-screenshots)
 - [Future Scope](#-future-scope)
 - [How to Run/Build APK](#-how-to-runbuild-apk)
 - [Author](#-author)
